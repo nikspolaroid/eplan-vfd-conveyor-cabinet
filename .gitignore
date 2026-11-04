@@ -1,0 +1,6 @@
+# EPLAN lock and temporary files
+*.lck
+*.slk
+*.xlk
+*.flk
+*.bak
