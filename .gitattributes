@@ -2,3 +2,6 @@
 *.eox binary
 *.pdf binary
 *.jpg binary
+*.png binary
+*.f3d binary
+*.step -diff

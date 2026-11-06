@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"script",
+	"author":	"Nikhil Sanu Viswam",
+	"description":	{
+		"":	"Builds a 3D layout model of the CAB1 VFD conveyor control cabinet from the EPLAN design"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
